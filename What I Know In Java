@@ -1,0 +1,74 @@
+**My Java Syllabus (ICSE – What I Know)**
+
+I have studied the following topics in Java:
+
+1. **Object Oriented Programming Concepts**
+
+   * Principles: Abstraction, Inheritance, Polymorphism, Encapsulation
+   * Java compilation process: Source Code → Bytecode → JVM
+   * Features of Java
+
+2. **Objects and Classes**
+
+   * Objects as entities with state and behavior
+   * Classes as blueprints (object factory)
+   * User-defined data types
+
+3. **Values and Data Types**
+
+   * Tokens: Keywords, Identifiers, Literals, Operators
+   * Primitive and Non-primitive data types
+   * ASCII and Unicode
+   * Type conversion (implicit and explicit)
+
+4. **Operators in Java**
+
+   * Arithmetic, Relational, Logical, Assignment
+   * Unary, Binary, Ternary operators
+   * Operator precedence and associativity
+   * `new` and dot (`.`) operators
+
+5. **Input in Java**
+
+   * Scanner class (`nextInt()`, `nextLine()`, etc.)
+   * Initialization vs Parameters
+   * Packages
+   * Comments and types of errors
+
+6. **Mathematical Library Methods**
+
+   * `Math.pow()`, `sqrt()`, `cbrt()`
+   * `ceil()`, `floor()`, `round()`
+   * `abs()`, `max()`, `min()`
+
+7. **Conditional Statements**
+
+   * if, if-else, if-else-if ladder
+   * Nested if
+   * switch-case with break and default
+
+8. **Iterative Constructs (Loops)**
+
+   * for, while, do-while
+   * break and continue
+   * Finite and infinite loops
+
+9. **Nested Loops and Patterns**
+
+   * Number and star patterns
+   * Triangular and rectangular patterns
+   * Use of nested loops
+
+10. **Number-based Programs**
+
+* Palindrome, Armstrong, Perfect, Automorphic, Neon, Niven
+* Fibonacci series
+* Xylem and Phloem numbers
+* Tech numbers
+
+11. **Menu-driven Programs**
+
+* Using switch-case
+* Applications like area calculation, billing, etc.
+
+This syllabus covers both **theory concepts and practical programming in Java**, including logic building using loops, conditions, and number-based problems.
