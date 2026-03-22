@@ -1,0 +1,7 @@
+.vscode/
+PlatformIO/
+java/
+*.class
+*.out
+*.exe
+a.out
