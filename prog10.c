@@ -2,18 +2,12 @@
 
 int main()
 {
-    int n;
-    int a; 
-    int a[n];
-    printf("Enter n\n");
-    scanf("%d", &n);
+    int arr[5]={5,8,6,9,2};
+    for(int i=1;i<=5;i++)
+    printf("The value of array is %d \n",arr[i]);
     int sum=0;
-    for(int i=0; i<=n; i++)
-    {
-    printf("Enter value\n");
-    scanf("%d", a[i]);
-    sum=sum+a[];
-    }
-    printf("Sum is%d\n", sum);
+    for(int j=1; j<=5; j++)
+    sum=sum+arr[j];
+    printf("The sum %d \n",sum);
     return 0;
 }
