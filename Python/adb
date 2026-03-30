@@ -1,1 +1,2 @@
 adb connect 10.226.214.18  \\oppo a5x
+adb connect 10.226.214.162
