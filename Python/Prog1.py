@@ -1,4 +1,0 @@
-print("Hello Python 🚀")
-
-for i in range(1, 6):
-    print(i)
