@@ -54,3 +54,8 @@ build/.cmake/api/v1/reply/index-2026-03-24T15-53-24-0047.json
 build/.cmake/api/v1/reply/codemodel-v2-6dedd9b353f67fffe02c.json
 build/.cmake/api/v1/reply/index-2026-03-24T16-10-05-0414.json
 array_lesson.c
+ai_env/
+venv/
+.env/
+__pycache__/
+*.pyc
